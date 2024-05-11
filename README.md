@@ -1,6 +1,6 @@
 This warehouse is an example of a bug in Springdoc
 
-When there is a Class<?>in the entity class`` When dealing with fields of type, a dead loop will occur
+When there is a Class<?> in the entity class When dealing with fields of type, a dead loop will occur
 
 Version information:
 
